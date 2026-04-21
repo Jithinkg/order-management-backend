@@ -3,6 +3,7 @@ const ROLES = Object.freeze({
   RESTAURANT_OWNER: 'restaurant_owner',
   DELIVERY_AGENT: 'delivery_agent',
   ADMIN: 'admin',
+  SUPER_ADMIN: 'super_admin',
 });
 
 const PERMISSIONS = Object.freeze({
